@@ -2,8 +2,8 @@
 
 I created a calculator app that handles interactions, input changes and calculations. 
 
-This project teached how to manage state, working with re-rendering and how to put together many small components. 
-Also it teached working with css towards better user experience.
+This project taught how to manage state, working with re-rendering and how to put together many small components. 
+Also it taught working with css towards better user experience.
 
 Demo:
 
